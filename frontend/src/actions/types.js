@@ -1,0 +1,11 @@
+export const USER_LOADED = "USER_LOADED";
+export const SIGN_IN = "SIGN_IN";
+export const SIGN_OUT = "SIGN_OUT";
+export const SIGN_UP = "SIGN_UP";
+export const GET_PARK_LIST = "GET_PARK_LIST";
+export const GET_SPOT_LIST = "GET_SPOT_LIST";
+export const SELECTED_PARK = "SELECTED_PARK";
+export const SELECTED_SPOT = "SELECTED_SPOT";
+export const CREATE_PARK = "CREATE_PARK";
+export const CREATE_SPOT = "CREATE_SPOT";
+export const SET_SELECTED_PARK = "SET_SELECTED_PARK";
